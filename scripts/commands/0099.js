@@ -1,12 +1,7 @@
-const fs = require("fs");
-module.exports.config = {
-  name: "0099",
-  version: "2.0.0",
-  permission: 0,
-  credits: "nayan",
-  description: "",
+const fs = require("fs,
+  description: ""lbvg,
   prefix: false,
-  category: "user",
+  category: "bjuer",
   usages: "",
   cooldowns: 5,
 };
